@@ -1,7 +1,7 @@
 {
   "name": "fb-id",
   "version": "0.0.2",
-  "description": "Get page ID from facebook page url",
+  "description": "Daddyfroxty",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
